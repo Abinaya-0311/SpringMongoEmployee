@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "686dfeb65ffd51867890dd0b"
+  },
+  "employeeId": "1001",
+  "employeeName": "John Doe",
+  "employeeEmail": "john.doe@example.com",
+  "location": "New York",
+  "_class": "com.example.SpringMongoEmployee.models.Employee"
+},
+{
+  "_id": {
+    "$oid": "686e010a5ffd51867890dd0c"
+  },
+  "employeeId": "1002",
+  "employeeName": "senthilkumar",
+  "employeeEmail": "senthilkumarkrr1979@gmail.com",
+  "location": "karur",
+  "_class": "com.example.SpringMongoEmployee.models.Employee"
+},
+{
+  "_id": {
+    "$oid": "686e01475ffd51867890dd0d"
+  },
+  "employeeId": "1003",
+  "employeeName": "Abinaya",
+  "employeeEmail": "sabinayabme@gmail.com",
+  "location": "karur",
+  "_class": "com.example.SpringMongoEmployee.models.Employee"
+},
+{
+  "_id": {
+    "$oid": "686e01675ffd51867890dd0e"
+  },
+  "employeeId": "1004",
+  "employeeName": "Harini",
+  "employeeEmail": "harini@gmail.com",
+  "location": "chennai",
+  "_class": "com.example.SpringMongoEmployee.models.Employee"
+},
+{
+  "_id": {
+    "$oid": "686e01a45ffd51867890dd0f"
+  },
+  "employeeId": "1005",
+  "employeeName": "Dhanalakshmi",
+  "employeeEmail": "Dhanalakshmi@gmail.com",
+  "location": "chennai",
+  "_class": "com.example.SpringMongoEmployee.models.Employee"
+}]
