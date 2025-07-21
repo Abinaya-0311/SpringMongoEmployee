@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "SpringMongoEmployeeApplication",
+            "request": "launch",
+            "mainClass": "com.example.SpringMongoEmployee.SpringMongoEmployeeApplication",
+            "projectName": "SpringMongoEmployee"
+        },
+        {
             "name": "Launch Chrome",
             "request": "launch",
             "type": "chrome",
